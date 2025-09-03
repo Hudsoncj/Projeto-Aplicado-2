@@ -2,7 +2,7 @@
 
 ## 🎬Análise de Sentimentos em Reviews de Filmes do IMDB
 
-## 👥 Grupo de Trabalho
+## 👥 Grupo 7
 - Ana Heloísa
 - Diógenes
 - Hudson Carvalho de Jesus - 10721459
