@@ -3,7 +3,7 @@
 ## 🎬Análise de Sentimentos em Reviews de Filmes do IMDB
 
 ## 👥 Grupo 7
-- Ana Heloísa
+- Ana Heloiza - 10730351
 - Diógenes
 - Hudson Carvalho de Jesus - 10721459
 - Laura
