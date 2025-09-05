@@ -6,7 +6,7 @@
 - Ana Heloiza - 10730351
 - Diógenes
 - Hudson Carvalho de Jesus - 10721459
-- Laura
+- Laura SAntos Rezende - 10722252
 
 ## 🎯 Objetivos e Metas
 
