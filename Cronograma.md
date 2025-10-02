@@ -21,7 +21,7 @@
 | 01/09 | Readme GhiThub | Laura |
 | 02/09 | Organização projeto do GhiThub | Diógnes / Hudson |
 | 03/09 | Disponibilizar dataset no GhiThub | Ana Heloiza |
-| 04/09 | Diagramação da estrutura do documento | Laura |
+| 04/09 | Estruturação do documento | Laura |
 | 05/09 | **Entrega** | **Todos** |
 
 
@@ -76,5 +76,71 @@
 | 16/11 | Reunião do grupo | Todos |
 | 17/11 - 18/11 | Edição | Hudson |
 | 19/11 - 20/11 | Revisão GhiThub | Diógnes / Laura |
+| 21/11 - 23/11 | Reestruturação de documento | Ana Heloiza |
+| 24/11 | **Entrega Final** | **Todos** |
+
+
+## Linha do Tempo
+
+```mermaid
+gantt
+    title Cronograma do Projeto
+    dateFormat MM/DD
+
+    section ETAPA 1 (20/08 a 05/09)
+    Definição grupo : 08/20, 5d
+    Escolha tema e dataset : 08/21, 5d
+    Construção inicial do documento : 08/22, 5d
+    Encontro grupo : 08/23, 5d
+    Planejamento de tarefas : 08/24, 5d
+    Descrição do dataset : 08/25, 5d
+    Descrição contexto e objetivo : 08/26, 5d
+    Apresentação da organização : 08/27, 5d
+    Busca referências e aquisição : 08/28, 5d
+    Criação de repositório GhiThub : 08/29, 5d
+    Readme GhiThub : 08/30, 5d
+    Organização projeto GhiThub : 08/31, 5d
+    Disponibilizar dataset : 09/01, 5d
+    Diagramação estrutura : 09/04, 2d
+    Entrega Etapa 1 : done, 09/05, 1d
+
+    section ETAPA 2 (05/09 a 01/10)
+    Feedback professor 1 : 09/05, 5d
+    Encontro grupo : 09/10, 5d
+    Estruturação do documento : 09/11, 5d
+    Pipe line e Metadados : 09/15, 5d
+    Proposta Analítica : 09/18, 5d
+    Elaboração de scripts : 09/22, 4d
+    Elaboração do código : 09/24, 4d
+    Subir material p/ GitHub : 09/26, 4d
+    Análise Exploratória doc : 09/28, 3d
+    Elaboração de gráficos : 09/29, 3d
+    Entrega Etapa 2 : done, 10/01, 1d
+
+    section ETAPA 3 (01/10 - 02/10 e 21/10 - 27/10)
+    Feedback professor : 10/01, 2d
+    Reunião do grupo : 10/02, 2d
+    Definição de tarefas : 10/21, 3d
+    Definição de Storytelling : 10/22, 3d
+    Estruturação de Storytelling : 10/23, 3d
+    Análise Exploratória Python : 10/24, 3d
+    Subir informações no repositório : 10/25, 3d
+    Seção Análise Exploratória : 10/26, 3d
+    Estruturação de documento : 10/27, 3d
+    Entrega Etapa 3 : done, 10/27, 1d
+
+    section ETAPA 4 (08/11 a 24/11)
+    Feedback professor : 11/08, 4d
+    Reunião do grupo : 11/11, 4d
+    Definição de tarefas : 11/12, 4d
+    Estruturação de gravação : 11/14, 4d
+    Definição de partes : 11/15, 4d
+    Reunião do grupo : 11/16, 4d
+    Edição : 11/17, 4d
+    Revisão GhiThub : 11/19, 4d
+    Reestruturação de documento : 11/21, 4d
+    Entrega Final : done, 11/24, 1d
+```
+
 | 21/11 - 23/11 | Reestruturação de documento | Ana Heloiza |
 | 24/11 | **Entrega Final** | **Todos** |
