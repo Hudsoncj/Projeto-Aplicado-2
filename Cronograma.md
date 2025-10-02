@@ -17,10 +17,10 @@
 | 28/08 - 29/08 | Descrição do contexto e objetivo do projeto | Diógnes / Ana Heloiza |
 | 30/08 | Apresentação da organização escolhida | Ana Heloiza |
 | 30/08 - 31/08 | Busca por referências e aquisição de dados | Diógnes / Laura |
-| 01/09 | Criação de repositório GhiThub | Hudson |
-| 01/09 | Readme GhiThub | Laura |
-| 02/09 | Organização projeto do GhiThub | Diógnes / Hudson |
-| 03/09 | Disponibilizar dataset no GhiThub | Ana Heloiza |
+| 01/09 | Criação de repositório GitHub | Hudson |
+| 01/09 | Readme GitHub | Laura |
+| 02/09 | Organização projeto do GitHub | Diógnes / Hudson |
+| 03/09 | Disponibilizar dataset no GitHub | Ana Heloiza |
 | 04/09 | Estruturação do documento | Laura |
 | 05/09 | **Entrega** | **Todos** |
 
@@ -75,7 +75,7 @@
 | 15/11 | Definição de partes para gravação | Ana Heloiza |
 | 16/11 | Reunião do grupo | Todos |
 | 17/11 - 18/11 | Edição | Hudson |
-| 19/11 - 20/11 | Revisão GhiThub | Diógnes / Laura |
+| 19/11 - 20/11 | Revisão GitHub | Diógnes / Laura |
 | 21/11 - 23/11 | Reestruturação de documento | Ana Heloiza |
 | 24/11 | **Entrega Final** | **Todos** |
 
@@ -97,9 +97,9 @@ gantt
     Descrição contexto e objetivo : 08/26, 5d
     Apresentação da organização : 08/27, 5d
     Busca referências e aquisição : 08/28, 5d
-    Criação de repositório GhiThub : 08/29, 5d
-    Readme GhiThub : 08/30, 5d
-    Organização projeto GhiThub : 08/31, 5d
+    Criação de repositório GitHub : 08/29, 5d
+    Readme GitHub : 08/30, 5d
+    Organização projeto GitHub : 08/31, 5d
     Disponibilizar dataset : 09/01, 5d
     Diagramação estrutura : 09/04, 2d
     Entrega Etapa 1 : done, 09/05, 1d
@@ -137,10 +137,7 @@ gantt
     Definição de partes : 11/15, 4d
     Reunião do grupo : 11/16, 4d
     Edição : 11/17, 4d
-    Revisão GhiThub : 11/19, 4d
+    Revisão GitHub : 11/19, 4d
     Reestruturação de documento : 11/21, 4d
     Entrega Final : done, 11/24, 1d
 ```
-
-| 21/11 - 23/11 | Reestruturação de documento | Ana Heloiza |
-| 24/11 | **Entrega Final** | **Todos** |
