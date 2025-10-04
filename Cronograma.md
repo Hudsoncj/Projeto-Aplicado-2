@@ -33,15 +33,14 @@
 | :---: | :--- | :---: |
 | 05/09 - 09/09 | Feedback professor 1 | Todos |
 | 10/09 | Encontro grupo | Todos |
-| 11/09 - 14/09 | Estruturação do documento | Ana Heloiza |
-| 15/09 - 17/09 | Pipe line e Metadados | Hudson |
-| 18/09 - 21/09 | Proposta Analítica | Diógnes / Laura |
+| 11/09 - 14/09 | Estruturação do documento | Laura |
+| 15/09 - 17/09 | Pipe line e Metadados | Laura |
+| 18/09 - 21/09 | Proposta Analítica | Laura |
 | 22/09 - 23/09 | Elaboração de scripts | Laura |
-| 24/09 - 25/09 | Elaboração do código | Hudson |
-| 26/09 - 27/09 | Subir material elaborado para o GitHub | Diógnes / Ana Heloiza |
-| 28/09 | Análise Exploratória do documento | Ana Heloiza |
-| 29/09 - 30/09 | Elaboração de gráficos | Diógnes / Hudson |
-| 01/10 | **Entrega** | **Todos** |
+| 24/09 - 25/09 | Elaboração do código | Laura|
+| 26/09 - 27/09 | Subir material elaborado para o GitHub | Laura |
+| 28/09 | Análise Exploratória do documento | Laura |
+| 01/10 | **Entrega** | Laura |
 
 
 ## ETAPA 3 – Storytelling
