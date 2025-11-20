@@ -12,3 +12,6 @@ O objetivo deste estudo é analisar os sentimentos em reviews de filmes do IMDb,
 
 ## 🔗Link do Dataset
 [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/vishakhdapat/imdb-movie-reviews)
+
+## Video de Apresentação
+https://youtu.be/EIFBQAt0zqg?si=dqsV_zK8UINWZoOF
